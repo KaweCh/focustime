@@ -1,3 +1,5 @@
+https://www.codegrepper.com/code-examples/css/expo+%3A+File+C%3A%5CUsers%5CAdmin%5CAppData%5CRoaming%5Cnpm%5Cexpo.ps1+cannot+be+loaded+because+running+scripts+is+disabled+on+this+system.+For+more+information%2C+see+about_Execution_Policies+at+https%3A%2Fgo.microsoft.com%2Ffwlink%2F%3FLinkID%3D135170.
+
 npm install react-native-paper
 
 npm i @react-native-async-storage/async-storage
