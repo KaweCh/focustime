@@ -10,6 +10,7 @@ import AsyncStorage from "@react-native-async-storage/async-storage";
 
 export default function App() {
   // ป้องกันไม่ให้หน้าจอเข้าสู่โหมดสลีปและฟังก์ชันคู่หนึ่งเพื่อเปิดใช้งานพฤติกรรมนี้โดยไม่จำเป็น
+  console.log("Test");
   const STATUSES = {
     COMPLESE: 1,
     CANCELLED: 2,
