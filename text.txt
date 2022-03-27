@@ -1,0 +1,4 @@
+npm install react-native-paper
+
+npm i @react-native-async-storage/async-storage
+// ใช้สำหรับเก็บข้อมูลแบบไม่หาย
